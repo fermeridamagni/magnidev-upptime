@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.magni.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://assets.magni.dev/icons/default-icon-500x500.png
   name: Magni Development
   introTitle: "Magni Development • Software Development Company"
   introMessage: "We develop and maintain custom software for businesses and startups. Always seeking the best solution for your business."
