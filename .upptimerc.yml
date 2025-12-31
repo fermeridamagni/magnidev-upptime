@@ -29,5 +29,7 @@ assignees:
 
 skipDeleteIssues: true
 
+user-agent: fermeridamagni
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
